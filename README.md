@@ -9,3 +9,11 @@
 <img align='left' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=b1gdog&theme=nord_dark' width='270px'>
 
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1gdog&theme=nord_dark' width='555px'> 
+
+<table>
+  <tr>
+    <td>恭喜您成为第</td>
+    <td><img src="https://profile-counter.glitch.me/AabyssZG/count.svg" alt="" /></td>
+    <td>位访客</td>
+  </tr>
+</table>
